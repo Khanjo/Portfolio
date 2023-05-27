@@ -24,6 +24,6 @@ This is a summary of my personal information and some example projects I've work
 
 ## Known Bugs
 
-*Unordered lists in the projects section get squished to the right when the viewport is too small
+* Unordered lists in the projects section get squished to the right when the viewport is too small
 
 ### &copy; 2023 Joshua Khan
