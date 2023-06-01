@@ -1,9 +1,5 @@
 # **Joshua Khan's Portfolio**
 
-#### *Contributors:*
-
-***Lindsay Warr, Shankaron Mohamed, Roberto Antonio Sanchez, Eva Kemp, Thomas Bakken, Jase Grable, and Joshua Khan***
-
 ## This is my portfolio
 
 This is a summary of my personal information and some example projects I've worked on
