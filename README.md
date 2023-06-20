@@ -1,10 +1,10 @@
 # **Joshua Khan's Portfolio**
 
-#### _My portfolio, 5/26/2023_
+#### *Contributors:*
 
-##### _by Joshua Khan_
+***Lindsay Warr, Shankaron Mohamed, Roberto Antonio Sanchez, Eva Kemp, Thomas Bakken, Jase Grable, and Joshua Khan***
 
-## Description
+## This is my portfolio
 
 This is a summary of my personal information and some example projects I've worked on
 
