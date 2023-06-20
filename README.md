@@ -1,10 +1,10 @@
 # **Joshua Khan's Portfolio**
 
-#### *Contributors:*
+#### _My portfolio, 5/26/2023_
 
-***Lindsay Warr, Shankaron Mohamed, Roberto Antonio Sanchez, Eva Kemp, Thomas Bakken, Jase Grable, and Joshua Khan***
+##### _by Joshua Khan_
 
-## This is my portfolio
+## Description
 
 This is a summary of my personal information and some example projects I've worked on
 
@@ -45,6 +45,10 @@ Open via Bash/GitBash:
  _Unordered lists in the projects section get squished to the right when the viewport is too small_
 
  ## Support and contact details
+
+_Please reach out through my GitHub account._
+
+## Support and contact details
 
 _Please reach out through my GitHub account._
 
