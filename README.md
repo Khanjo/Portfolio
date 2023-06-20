@@ -48,8 +48,4 @@ Open via Bash/GitBash:
 
 _Please reach out through my GitHub account._
 
-## Support and contact details
-
-_Please reach out through my GitHub account._
-
 ### &copy; 2023 Joshua Khan
